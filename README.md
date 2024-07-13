@@ -14,8 +14,8 @@
 
 ## Hello! This is Ravi Raj Kushvaha... ^_^
 
-`Software Engineer` <br>
-| 😊 Coder | ❤️ New Tech Conversation | 🥰 Java Full Stack Developer
+`Java Full Stack Developer` <br>
+😊Coder  ❤️New Tech Conversation 
 <img src="horizontal-rule.png" alt="Ravi, Ravi Raj, Ravi Raj Kushvaha, Logo, Banner" height = "5" width = "100%"/>
 
 ### Reach Out 🕺 🕺 
